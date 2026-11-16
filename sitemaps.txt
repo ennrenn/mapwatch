@@ -1,0 +1,8 @@
+# One sitemap address per line. Lines starting with # are ignored.
+# To watch another site, add its sitemap address on a new line and save.
+# The first run for a new line just records the starting point; new pages
+# are reported from the second run onwards.
+
+https://www.qa.com/sitemapxml/
+https://www.multiverse.io/sitemap.xml
+https://www.corndel.com/sitemap.xml

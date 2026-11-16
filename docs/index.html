@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sitemap watch</title>
+<style>
+  :root { color-scheme: light dark; --line: #8884; --muted: #777; --accent: #0b6b5d; }
+  body { font: 16px/1.5 system-ui, sans-serif; max-width: 62rem; margin: 2rem auto; padding: 0 1rem; }
+  h1 { font-size: 1.5rem; margin-bottom: .25rem; }
+  h2 { font-size: 1.1rem; margin-top: 2rem; }
+  .muted { color: var(--muted); }
+  table { border-collapse: collapse; width: 100%; }
+  th, td { text-align: left; padding: .4rem .6rem; border-bottom: 1px solid var(--line); vertical-align: top; }
+  th { font-size: .85rem; color: var(--muted); font-weight: 600; }
+  td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
+  a { color: var(--accent); }
+  button, select, input { font: inherit; padding: .3rem .6rem; }
+  button { cursor: pointer; }
+  .bar { display: flex; gap: .5rem; flex-wrap: wrap; margin: .75rem 0; }
+  .bar input { flex: 1; min-width: 12rem; }
+  .warn { border: 1px solid #c60; padding: .5rem .75rem; border-radius: 4px; margin: 1rem 0; }
+  td.url { word-break: break-all; }
+  .added { color: var(--accent); font-weight: 600; }
+  .removed { color: #b33; font-weight: 600; }
+</style>
+</head>
+<body>
+<h1>Sitemap watch</h1>
+<p class="muted" id="status">Loading…</p>
+<div id="errors"></div>
+
+<h2>Weekly results</h2>
+<div class="bar"><button id="all">Download every week as one CSV</button></div>
+<table id="runs">
+  <thead><tr><th>Date</th><th class="num">New</th><th class="num">Removed</th><th>By site</th><th></th></tr></thead>
+  <tbody></tbody>
+</table>
+<p class="muted" id="empty" hidden>No changes recorded yet. The first run only saves a starting point, so new pages appear from the second run onwards.</p>
+
+<section id="detail" hidden>
+  <h2 id="detail-title"></h2>
+  <div class="bar">
+    <input id="filter" type="search" placeholder="Filter by text in the URL">
+    <select id="change"><option value="">New and removed</option><option value="added" selected>New only</option><option value="removed">Removed only</option></select>
+    <select id="site"><option value="">All sites</option></select>
+    <button id="dl">Download this view</button>
+  </div>
+  <p class="muted" id="count"></p>
+  <table id="rows">
+    <thead><tr><th>Site</th><th>Change</th><th>URL</th></tr></thead>
+    <tbody></tbody>
+  </table>
+</section>
+
+<script>
+const $ = id => document.getElementById(id);
+let current = { run: null, rows: [] };
+
+// Reads CSV text, including quoted fields that contain commas.
+function parseCsv(text) {
+  const out = []; let row = [], field = "", quoted = false;
+  for (let i = 0; i < text.length; i++) {
+    const c = text[i];
+    if (quoted) {
+      if (c === '"' && text[i + 1] === '"') { field += '"'; i++; }
+      else if (c === '"') quoted = false;
+      else field += c;
+    } else if (c === '"') quoted = true;
+    else if (c === ",") { row.push(field); field = ""; }
+    else if (c === "\n" || c === "\r") {
+      if (c === "\r" && text[i + 1] === "\n") i++;
+      row.push(field); field = ""; if (row.some(Boolean)) out.push(row); row = [];
+    } else field += c;
+  }
+  if (field || row.length) { row.push(field); out.push(row); }
+  return out;
+}
+const toCsv = rows => rows.map(r => r.map(v => /[",\n]/.test(v) ? '"' + v.replace(/"/g, '""') + '"' : v).join(",")).join("\n") + "\n";
+
+function save(name, text) {
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(new Blob([text], { type: "text/csv" }));
+  a.download = name; a.click(); URL.revokeObjectURL(a.href);
+}
+async function loadCsv(file) {
+  const res = await fetch("deltas/" + file, { cache: "no-cache" });
+  if (!res.ok) throw new Error(file + " could not be loaded");
+  return parseCsv(await res.text()).slice(1);
+}
+const el = (tag, text, cls) => { const e = document.createElement(tag); if (text !== undefined) e.textContent = text; if (cls) e.className = cls; return e; };
+
+function renderDetail() {
+  const q = $("filter").value.toLowerCase(), ch = $("change").value, st = $("site").value;
+  const shown = current.rows.filter(r => (!ch || r[2] === ch) && (!st || r[1] === st) && (!q || r[3].toLowerCase().includes(q)));
+  $("count").textContent = shown.length + " of " + current.rows.length + " rows";
+  const body = $("rows").tBodies[0]; body.replaceChildren();
+  for (const r of shown) {
+    const tr = el("tr");
+    tr.append(el("td", r[1]), el("td", r[2], r[2]));
+    const td = el("td", undefined, "url"); const a = el("a", r[3]); a.href = r[3]; a.target = "_blank"; a.rel = "noopener"; td.append(a);
+    tr.append(td); body.append(tr);
+  }
+  current.shown = shown;
+}
+
+async function openRun(run) {
+  $("detail").hidden = false;
+  $("detail-title").textContent = "Week of " + run.date;
+  $("count").textContent = "Loading…";
+  current = { run, rows: await loadCsv(run.file) };
+  const sites = [...new Set(current.rows.map(r => r[1]))].sort();
+  $("site").replaceChildren(new Option("All sites", ""), ...sites.map(s => new Option(s, s)));
+  renderDetail();
+  $("detail").scrollIntoView({ behavior: "smooth" });
+}
+
+async function init() {
+  let manifest;
+  try {
+    const res = await fetch("deltas/manifest.json", { cache: "no-cache" });
+    if (!res.ok) throw new Error();
+    manifest = await res.json();
+  } catch {
+    $("status").textContent = "No results yet. Run the “Weekly sitemap check” workflow once from the Actions tab.";
+    return;
+  }
+  $("status").textContent = "Last checked " + manifest.last_checked + ".";
+  if (manifest.last_errors && manifest.last_errors.length) {
+    const box = el("div", undefined, "warn");
+    box.append(el("strong", "The last check could not read some sitemaps:"));
+    const ul = el("ul"); manifest.last_errors.forEach(e => ul.append(el("li", e))); box.append(ul);
+    $("errors").append(box);
+  }
+  const body = $("runs").tBodies[0];
+  $("empty").hidden = manifest.runs.length > 0;
+  for (const run of manifest.runs) {
+    const tr = el("tr");
+    tr.append(el("td", run.date), el("td", String(run.added), "num"), el("td", String(run.removed), "num"));
+    tr.append(el("td", Object.entries(run.sites).map(([s, c]) => s + " (" + c.added + " new)").join(", ")));
+    const td = el("td");
+    const view = el("button", "View"); view.onclick = () => openRun(run);
+    const dl = el("a", "CSV"); dl.href = "deltas/" + run.file; dl.download = run.file; dl.style.marginLeft = ".75rem";
+    td.append(view, dl); tr.append(td); body.append(tr);
+  }
+  $("all").onclick = async () => {
+    const rows = [["date", "site", "change", "url"]];
+    for (const run of [...manifest.runs].reverse()) rows.push(...await loadCsv(run.file));
+    save("all_new_urls.csv", toCsv(rows));
+  };
+  if (manifest.runs.length) openRun(manifest.runs[0]);
+}
+
+["filter", "change", "site"].forEach(id => $(id).addEventListener("input", renderDetail));
+$("dl").onclick = () => save("new_urls_" + current.run.date + "_view.csv", toCsv([["date", "site", "change", "url"], ...current.shown]));
+init();
+</script>
+</body>
+</html>
