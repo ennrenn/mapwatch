@@ -822,7 +822,6 @@ https://www.qa.com/course-catalogue/courses/advanced-lean-techniques-understandi
 https://www.qa.com/course-catalogue/courses/advanced-machine-learning-with-databricks-dbmlp/
 https://www.qa.com/course-catalogue/courses/advanced-powershell-qapsadv/
 https://www.qa.com/course-catalogue/courses/advanced-python-for-network-engineers-tpap4ne/
-https://www.qa.com/course-catalogue/courses/advanced-safe-practice-consultant-tpaspc/
 https://www.qa.com/course-catalogue/courses/advanced-statistical-techniques-tplssmbbas/
 https://www.qa.com/course-catalogue/courses/advanced-transact-sql-querying-programming-and-tuning-lsqlqpt/
 https://www.qa.com/course-catalogue/courses/adversary-ops-infrastructure-edition-qaaihack/
@@ -2187,7 +2186,6 @@ https://www.qa.com/course-catalogue/micro/how-to-stop-bad-data-from-ruining-your
 https://www.qa.com/course-catalogue/micro/multi-agent-systems-with-gemini-enterprise-agent-platform-when-one-ai-isnt-enough-qamasgem-m/
 https://www.qa.com/course-catalogue/micro/prompting-workshop-bring-your-own-ai-qabyod-m/
 https://www.qa.com/course-catalogue/micro/running-agile-teams-with-ai-agents-qarataia-m/
-https://www.qa.com/course-catalogue/micro/scale-ai-engineering-fast-with-cursor-qasaiefc-m/
 https://www.qa.com/course-catalogue/micro/why-people-push-back-on-change-and-what-to-do-about-it-qawppbc-m/
 https://www.qa.com/course-catalogue/platform-courses/
 https://www.qa.com/course-catalogue/products/
@@ -2620,7 +2618,6 @@ https://www.qa.com/resources/events/eduqate-her-inspiring-women-in-tech/
 https://www.qa.com/resources/events/empower-your-workflow-unveiling-the-magic-of-copilot-in-microsoft-365/
 https://www.qa.com/resources/events/empower-your-workforce-with-copilot-for-microsoft-365-use-cases/
 https://www.qa.com/resources/events/essential-security-skills-for-a-safe-deployment/
-https://www.qa.com/resources/events/explore-qa-apprenticeships-with-careermap/
 https://www.qa.com/resources/events/free-course-microsoft-security-compliance-and-identity/
 https://www.qa.com/resources/events/free-introduction-to-data-analytics-on-google-cloud/
 https://www.qa.com/resources/events/free-introduction-to-data-engineering-on-google-cloud/
@@ -2761,6 +2758,9 @@ https://www.qa.com/resources/guides/what-is-azure-data-factory/
 https://www.qa.com/resources/guides/what-is-kanban/
 https://www.qa.com/resources/guides/what-is-microsoft-copilot/
 https://www.qa.com/resources/guides/what-is-scrum/
+https://www.qa.com/resources/newsletters/
+https://www.qa.com/resources/newsletters/qa-signal-november/
+https://www.qa.com/resources/newsletters/qa-signal-october/
 https://www.qa.com/resources/podcasts/
 https://www.qa.com/resources/ppm-pulse/
 https://www.qa.com/resources/reports/

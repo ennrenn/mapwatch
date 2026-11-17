@@ -1,5 +1,18 @@
 {
-  "runs": [],
-  "last_checked": "2026-11-16",
+  "runs": [
+    {
+      "date": "2026-11-17",
+      "file": "new_urls_2026-11-17.csv",
+      "added": 3,
+      "removed": 3,
+      "sites": {
+        "qa.com": {
+          "added": 3,
+          "removed": 3
+        }
+      }
+    }
+  ],
+  "last_checked": "2026-11-17",
   "last_errors": []
 }
