@@ -213,6 +213,7 @@ https://www.qa.com/apprenticeships/what-is-an-apprenticeship/how-much-does-an-ap
 https://www.qa.com/apprenticeships/what-is-an-apprenticeship/how-to-use-your-growth-and-skills-levy/
 https://www.qa.com/apprenticeships/what-is-an-apprenticeship/internship-vs-apprenticeship-vs-traineeship-similarities-and-differences/
 https://www.qa.com/apprenticeships/what-is-an-apprenticeship/interviewing-an-apprentice/
+https://www.qa.com/apprenticeships/what-is-an-apprenticeship/is-an-apprenticeship-considered-full-time-education/
 https://www.qa.com/apprenticeships/what-is-an-apprenticeship/non-levy-paying-employers/
 https://www.qa.com/apprenticeships/what-is-an-apprenticeship/overcoming-restrictions-to-level-7-apprenticeship-funding/
 https://www.qa.com/apprenticeships/what-is-an-apprenticeship/supporting-an-apprentice/
@@ -233,6 +234,7 @@ https://www.qa.com/authors/andrew-gilbert/
 https://www.qa.com/authors/andrew-templeton/
 https://www.qa.com/authors/andy-mcclary/
 https://www.qa.com/authors/andy-smith/
+https://www.qa.com/authors/anna-moore/
 https://www.qa.com/authors/anne-peterson/
 https://www.qa.com/authors/anthony-maxwell/
 https://www.qa.com/authors/antonio-angelino/
@@ -832,6 +834,7 @@ https://www.qa.com/course-catalogue/courses/ai-agent-essentials-on-google-cloud-
 https://www.qa.com/course-catalogue/courses/ai-assisted-secure-software-development-qascaaidev/
 https://www.qa.com/course-catalogue/courses/ai-audience-segmentation-qadmaas/
 https://www.qa.com/course-catalogue/courses/ai-business-essentials-for-leaders-qaaibe/
+https://www.qa.com/course-catalogue/courses/ai-empowered-certified-safe-release-train-engineer-tpsaferte/
 https://www.qa.com/course-catalogue/courses/ai-empowered-safe-leading-safe-qasafel/
 https://www.qa.com/course-catalogue/courses/ai-empowered-safe-product-ownerproduct-manager-qasafepoom/
 https://www.qa.com/course-catalogue/courses/ai-empowered-safe-safe-for-teams-qasafet/
@@ -1933,7 +1936,6 @@ https://www.qa.com/course-catalogue/courses/safe-business-owner-qasafebo/
 https://www.qa.com/course-catalogue/courses/safe-devops-qasafedo/
 https://www.qa.com/course-catalogue/courses/safe-for-architects-qasafearch/
 https://www.qa.com/course-catalogue/courses/safe-lean-portfolio-management-qasafelpm/
-https://www.qa.com/course-catalogue/courses/safe-release-train-engineer-with-rte-certification-tpsaferte/
 https://www.qa.com/course-catalogue/courses/salesforce-administration-fundamentals-qasfadx201/
 https://www.qa.com/course-catalogue/courses/salesforce-certified-platform-foundations-qasfaf/
 https://www.qa.com/course-catalogue/courses/scaled-empower-decision-makers-with-generative-ai-gcpedmgai/
@@ -2189,7 +2191,6 @@ https://www.qa.com/course-catalogue/micro/running-agile-teams-with-ai-agents-qar
 https://www.qa.com/course-catalogue/micro/why-people-push-back-on-change-and-what-to-do-about-it-qawppbc-m/
 https://www.qa.com/course-catalogue/platform-courses/
 https://www.qa.com/course-catalogue/products/
-https://www.qa.com/course-catalogue/products/ai-literacy-safe-and-compliant-ai-use-for-all-staff-qaailcd/
 https://www.qa.com/course-catalogue/products/apm-project-fundamentals-qualification-pfq-elearning-qapfqel/
 https://www.qa.com/course-catalogue/products/apm-project-management-qualification-pmq-elearning-qapmqel/
 https://www.qa.com/course-catalogue/products/apm-project-risk-certificate-level-1-elearning-qaprcel/
