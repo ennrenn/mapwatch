@@ -501,7 +501,6 @@ https://www.qa.com/browse/certifications/cisco-certifications/cisco-ccnp-enterpr
 https://www.qa.com/browse/certifications/cisco-certifications/cisco-ccnp-security/
 https://www.qa.com/browse/certifications/cisco-certifications/cisco-ccnp-service-provider/
 https://www.qa.com/browse/certifications/cloud-certifications/
-https://www.qa.com/browse/certifications/cloud-certifications/best-cloud-computing-certifications/
 https://www.qa.com/browse/certifications/comptia-certifications/
 https://www.qa.com/browse/certifications/comptia-certifications/comptia-aplus-guide/
 https://www.qa.com/browse/certifications/comptia-certifications/comptia-cloudplus/
@@ -2219,16 +2218,23 @@ https://www.qa.com/course-catalogue/products/certified-star-manager-starmanager1
 https://www.qa.com/course-catalogue/products/certified-threat-modeling-professional-e-learning-qapdctmpol/
 https://www.qa.com/course-catalogue/products/cisco-u-all-access-cscu-allaccess/
 https://www.qa.com/course-catalogue/products/cisco-u-essentials-cscu-essentials/
+https://www.qa.com/course-catalogue/products/configuring-bgp-on-cisco-routers-e-learning-cpll-bgp-v41/
+https://www.qa.com/course-catalogue/products/configuring-cisco-unified-computing-system-e-learning-cpll-dccucs-v10/
 https://www.qa.com/course-catalogue/products/cyber-geniq-cygeniq/
 https://www.qa.com/course-catalogue/products/cyber-range-for-developers-min-25-users-cmdctrl/
 https://www.qa.com/course-catalogue/products/cybsafe-cyber-awareness-min-purchase-1000-licences-cybsafes/
+https://www.qa.com/course-catalogue/products/designing-cisco-data-center-infrastructure-e-learning-cpll-dcid-v71/
 https://www.qa.com/course-catalogue/products/dvms-cyber-resiliance-professional-practitioner-cbt-qancsppel/
 https://www.qa.com/course-catalogue/products/ec-council-certified-application-security-engineer-case-e-learning-eccaseel/
 https://www.qa.com/course-catalogue/products/ec-council-certified-network-defender-v3-cnd-e-learning-eccndel/
 https://www.qa.com/course-catalogue/products/ec-council-computer-hacking-forensic-investigator-chfi-e-learning-ecchfiel/
 https://www.qa.com/course-catalogue/products/ethical-hacker-v13-elite-package-ecceh13eliteol/
-https://www.qa.com/course-catalogue/products/implementing-and-operating-cisco-security-core-technologies-cpll-scor-v1/
+https://www.qa.com/course-catalogue/products/implementing-and-administering-cisco-solutions-e-learning-cpll-ccna-v21/
+https://www.qa.com/course-catalogue/products/implementing-and-operating-cisco-data-center-core-technologies-e-learning-cpll-dccor-v13/
+https://www.qa.com/course-catalogue/products/implementing-and-operating-cisco-security-core-technologies-e-learning-cpll-scor-v1/
+https://www.qa.com/course-catalogue/products/implementing-cisco-application-centric-infrastructure-e-learning-cpll-dcacia-v12/
 https://www.qa.com/course-catalogue/products/industrial-control-systems-security-certification-e-learning-eccicsol/
+https://www.qa.com/course-catalogue/products/introducing-cisco-unified-computing-system-e-learning-cpll-dciucs-v10/
 https://www.qa.com/course-catalogue/products/microsoft-project-professional-essentials-elearning-qamsppeel/
 https://www.qa.com/course-catalogue/products/network-automation-with-red-hat-ansible-automation-platform-red-hat-learning-subscription-course-au457ls/
 https://www.qa.com/course-catalogue/products/offensive-security-learn-enterprise-qaoffseclmseol/
@@ -2245,8 +2251,10 @@ https://www.qa.com/course-catalogue/products/product-design-uxui-programme-uxdes
 https://www.qa.com/course-catalogue/products/professional-certificate-in-designing-for-accessibility-pcidfa/
 https://www.qa.com/course-catalogue/products/redflags-think-cyber-awareness-redflagsol/
 https://www.qa.com/course-catalogue/products/secure-code-warrior-licence-min-50-users-qaseccw/
-https://www.qa.com/course-catalogue/products/securing-cisco-networks-with-open-source-snort-elearning-cpll-ssfsnort-v3/
+https://www.qa.com/course-catalogue/products/securing-cisco-networks-with-open-source-snort-e-learning-cpll-ssfsnort-v3/
 https://www.qa.com/course-catalogue/products/star-coach-starcoach1/
+https://www.qa.com/course-catalogue/products/troubleshooting-cisco-data-center-infrastructure-e-learning-cpll-dcit-v71/
+https://www.qa.com/course-catalogue/products/understanding-cisco-collaboration-foundations-e-learning-cpll-clfndu-v12/
 https://www.qa.com/course-catalogue/products/uxdi-certificate-in-ai-for-prototyping-qacaip/
 https://www.qa.com/course-catalogue/products/uxdi-certificate-in-ai-for-user-research-qacaiur/
 https://www.qa.com/course-catalogue/products/uxdi-certificate-in-ai-fundamentals-for-ux-qacaifux/
@@ -2429,6 +2437,7 @@ https://www.qa.com/resources/blog/unlocking-hidden-tech-talent-in-your-workforce
 https://www.qa.com/resources/blog/unlocking-human-potential-with-ai-training/
 https://www.qa.com/resources/blog/vibe-coding-and-the-ai-security-governance-gap/
 https://www.qa.com/resources/blog/vr-vs-ar-vs-mr-what-s-the-difference/
+https://www.qa.com/resources/blog/we-must-create-opportunity-at-every-career-stage/
 https://www.qa.com/resources/blog/web-hosting-vs-cloud-hosting-whats-the-difference/
 https://www.qa.com/resources/blog/what-are-azure-blueprints/
 https://www.qa.com/resources/blog/what-are-iaas-paas-and-saas/
@@ -2594,6 +2603,7 @@ https://www.qa.com/resources/events/bigdata-ldn-talent-and-data-the-route-to-inn
 https://www.qa.com/resources/events/book-launch-product-discovery-thinking/
 https://www.qa.com/resources/events/breaking-through-the-pilot-phase-scaling-microsoft-365-copilot-adoption/
 https://www.qa.com/resources/events/bridging-the-gap-harmonising-change-and-project-management/
+https://www.qa.com/resources/events/build-an-agent-solve-a-real-problem/
 https://www.qa.com/resources/events/building-a-data-dream-team-talking-apprenticeships-with-costa-coffee/
 https://www.qa.com/resources/events/building-ai-champions-and-driving-ai-adoption-across-your-team-levels-3-4/
 https://www.qa.com/resources/events/change-management-network-rail/
@@ -2706,7 +2716,6 @@ https://www.qa.com/resources/events/tech4futures-software-development-workshop/
 https://www.qa.com/resources/events/the-countdown-to-change-navigating-level-7-apprenticeship-funding-reform/
 https://www.qa.com/resources/events/the-data-engineers-blueprint/
 https://www.qa.com/resources/events/the-economics-of-ai-understanding-cost-value-and-roi/
-https://www.qa.com/resources/events/the-future-financial-services-leader/
 https://www.qa.com/resources/events/the-future-skills-of-project-managers-meetup/
 https://www.qa.com/resources/events/the-product-manager-and-the-three-bears-session/
 https://www.qa.com/resources/events/thinking-critically-with-ai/
@@ -2805,6 +2814,7 @@ https://www.qa.com/solutions/categories/ai-skills/
 https://www.qa.com/solutions/categories/ai-skills/ai-academies/
 https://www.qa.com/solutions/categories/cloud-skills/
 https://www.qa.com/solutions/categories/cyber-security/
+https://www.qa.com/solutions/categories/cyber-security/ai-cyber-security/
 https://www.qa.com/solutions/categories/data-skills/
 https://www.qa.com/solutions/consulting-and-advisory/
 https://www.qa.com/solutions/public-sector/
