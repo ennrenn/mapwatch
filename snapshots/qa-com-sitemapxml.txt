@@ -208,6 +208,7 @@ https://www.qa.com/apprenticeships/what-is-an-apprenticeship/can-i-transfer-my-a
 https://www.qa.com/apprenticeships/what-is-an-apprenticeship/career-change-through-apprenticeships/
 https://www.qa.com/apprenticeships/what-is-an-apprenticeship/do-apprentices-have-to-pay-tax/
 https://www.qa.com/apprenticeships/what-is-an-apprenticeship/employers-who-utilise-apprenticeships/
+https://www.qa.com/apprenticeships/what-is-an-apprenticeship/how-long-do-apprenticeships-last/
 https://www.qa.com/apprenticeships/what-is-an-apprenticeship/how-much-do-you-have-to-pay-an-apprentice/
 https://www.qa.com/apprenticeships/what-is-an-apprenticeship/how-much-does-an-apprenticeship-costs-an-employer/
 https://www.qa.com/apprenticeships/what-is-an-apprenticeship/how-to-use-your-growth-and-skills-levy/
@@ -524,7 +525,6 @@ https://www.qa.com/browse/certifications/cyber-security-certifications/cissp/
 https://www.qa.com/browse/certifications/cyber-security-certifications/crisc/
 https://www.qa.com/browse/certifications/cyber-security-certifications/oscp/
 https://www.qa.com/browse/certifications/cyber-security-certifications/osir/
-https://www.qa.com/browse/certifications/cyber-security-certifications/owasp/
 https://www.qa.com/browse/certifications/cyber-security-certifications/sscp/
 https://www.qa.com/browse/certifications/data-certifications/
 https://www.qa.com/browse/certifications/data-certifications/best-data-analyst-certifications/
@@ -1188,6 +1188,7 @@ https://www.qa.com/course-catalogue/courses/definitive-sip-for-engineers-tpsip1/
 https://www.qa.com/course-catalogue/courses/definitive-vpns-for-engineers-tpipvpn/
 https://www.qa.com/course-catalogue/courses/definitive-vxlan-with-evpn-for-engineers-tpvxlan/
 https://www.qa.com/course-catalogue/courses/defintive-ethernet-switching-for-engineers-tpeswitch/
+https://www.qa.com/course-catalogue/courses/delegate-work-with-ai-mab6008/
 https://www.qa.com/course-catalogue/courses/delivering-products-using-azure-devops-and-scrum-qadpads/
 https://www.qa.com/course-catalogue/courses/deploy-and-administer-linux-virtual-machines-on-azure-maz1007/
 https://www.qa.com/course-catalogue/courses/deploy-and-configure-azure-monitor-applied-skills-workshop-maz1004/
@@ -2630,7 +2631,6 @@ https://www.qa.com/resources/events/empower-your-workflow-unveiling-the-magic-of
 https://www.qa.com/resources/events/empower-your-workforce-with-copilot-for-microsoft-365-use-cases/
 https://www.qa.com/resources/events/essential-security-skills-for-a-safe-deployment/
 https://www.qa.com/resources/events/free-course-microsoft-security-compliance-and-identity/
-https://www.qa.com/resources/events/free-introduction-to-data-analytics-on-google-cloud/
 https://www.qa.com/resources/events/free-introduction-to-data-engineering-on-google-cloud/
 https://www.qa.com/resources/events/from-150-minutes-to-6-building-an-ai-agent-that-solves-a-real-business-problem/
 https://www.qa.com/resources/events/from-capability-to-competitive-edge-developing-specialist-project-talent-in-an-ai-focused-future/
@@ -2640,8 +2640,6 @@ https://www.qa.com/resources/events/from-prompt-to-productivity-copilot-chat-ess
 https://www.qa.com/resources/events/future-forward-discover-the-power-of-apprenticeships-with-qa-microsoft/
 https://www.qa.com/resources/events/generative-ai-essentials-on-aws-june/
 https://www.qa.com/resources/events/generative-ai-essentials-on-aws-september/
-https://www.qa.com/resources/events/get-started-with-sql-analytics-and-bi-on-databricks/
-https://www.qa.com/resources/events/google-cloud-big-data-and-machine-learning-fundamentals/
 https://www.qa.com/resources/events/how-to-be-an-effective-mentor-meetup/
 https://www.qa.com/resources/events/how-to-plan-your-career-effectively-in-partnership-with-pathway-ctm/
 https://www.qa.com/resources/events/how-to-plan-your-career-effectively/

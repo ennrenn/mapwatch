@@ -1,6 +1,22 @@
 {
   "runs": [
     {
+      "date": "2026-11-21",
+      "file": "new_urls_2026-11-21.csv",
+      "added": 3,
+      "removed": 4,
+      "sites": {
+        "qa.com": {
+          "added": 2,
+          "removed": 4
+        },
+        "corndel.com": {
+          "added": 1,
+          "removed": 0
+        }
+      }
+    },
+    {
       "date": "2026-11-19",
       "file": "new_urls_2026-11-19.csv",
       "added": 14,
@@ -41,6 +57,11 @@
       }
     }
   ],
-  "last_checked": "2026-11-20",
-  "last_errors": []
+  "last_checked": "2026-11-21",
+  "last_errors": [
+    "https://www.ntu.ac.uk/sitemap.xml: could not download https://www.ntu.ac.uk/sitemap.xml (HTTP Error 403: Forbidden)",
+    "https://www.theknowledgeacademy.com/_public/sitemaps/sitemap_index.xml: could not download https://www.theknowledgeacademy.com/_public/sitemaps/sitemap_index.xml (HTTP Error 403: Forbidden)",
+    "https://www.globalknowledge.com/sitemap_index.xml: could not download https://www.globalknowledge.com/sitemap_index.xml (HTTP Error 502: Bad Gateway)",
+    "https://theapprenticeacademy.co.uk/sitemap_index.xml: could not download https://theapprenticeacademy.co.uk/sitemap_index.xml (Remote end closed connection without response)"
+  ]
 }
