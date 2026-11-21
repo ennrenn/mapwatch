@@ -3,7 +3,7 @@
     {
       "date": "2026-11-21",
       "file": "new_urls_2026-11-21.csv",
-      "added": 3,
+      "added": 8,
       "removed": 5,
       "sites": {
         "qa.com": {
@@ -17,6 +17,10 @@
         "firstintuition.co.uk": {
           "added": 0,
           "removed": 1
+        },
+        "mmu.ac.uk": {
+          "added": 5,
+          "removed": 0
         }
       }
     },
