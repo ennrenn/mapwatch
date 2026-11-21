@@ -3,6 +3,11 @@
 # The first run for a new line just records the starting point; new pages
 # are reported from the second run onwards.
 
+# https://www.ntu.ac.uk/sitemap.xml
+# https://www.theknowledgeacademy.com/_public/sitemaps/sitemap_index.xml
+# https://www.globalknowledge.com/sitemap_index.xml
+# https://theapprenticeacademy.co.uk/sitemap_index.xml
+
 https://www.qa.com/sitemapxml/
 https://www.multiverse.io/sitemap.xml
 https://www.corndel.com/sitemap.xml
@@ -17,13 +22,9 @@ https://www.collegalpractice.com/sitemap.xml
 https://www.law.ac.uk/sitemap.xml
 https://www.icca.ac.uk/sitemap_index.xml
 https://cdn.arden.ac.uk/s3fs-public/sitemap.xml
-https://www.ntu.ac.uk/sitemap.xml
 https://www.mmu.ac.uk/sitemap.xml
 https://www.solent.ac.uk/sitemap.xml
-https://www.theknowledgeacademy.com/_public/sitemaps/sitemap_index.xml
-https://www.globalknowledge.com/sitemap_index.xml
 https://leepgroup.com/sitemap.xml
 https://www.balticapprenticeships.com/sitemap_index.xml
-https://theapprenticeacademy.co.uk/sitemap_index.xml
 https://makers.tech/sitemap.xml
 https://paragonskills.co.uk/sitemap.xml
