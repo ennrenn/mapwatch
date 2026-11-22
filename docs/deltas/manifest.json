@@ -1,6 +1,18 @@
 {
   "runs": [
     {
+      "date": "2026-11-22",
+      "file": "new_urls_2026-11-22.csv",
+      "added": 12,
+      "removed": 0,
+      "sites": {
+        "mmu.ac.uk": {
+          "added": 12,
+          "removed": 0
+        }
+      }
+    },
+    {
       "date": "2026-11-21",
       "file": "new_urls_2026-11-21.csv",
       "added": 8,
@@ -65,6 +77,6 @@
       }
     }
   ],
-  "last_checked": "2026-11-21",
+  "last_checked": "2026-11-22",
   "last_errors": []
 }
