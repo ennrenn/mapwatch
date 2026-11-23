@@ -86,7 +86,6 @@ https://leepgroup.com/case-studies/employer-success-story-bsi
 https://leepgroup.com/case-studies/employer-success-story-itrm
 https://leepgroup.com/case-studies/great-ormond-street-hospital
 https://leepgroup.com/case-studies/j-brand-leep-talent
-https://leepgroup.com/case-study-post
 https://leepgroup.com/contact-us
 https://leepgroup.com/course-page
 https://leepgroup.com/course/generative-ai-marketer-apprenticeship
@@ -153,12 +152,14 @@ https://leepgroup.com/landing-page
 https://leepgroup.com/leep-job-account-executive-/-senior-/-manager
 https://leepgroup.com/leep-job-account-manager-cpd-short-courses-self-funded-sales
 https://leepgroup.com/leep-job-ai-engineer-apprenticeship
+https://leepgroup.com/leep-job-business-analyst-business-coach
 https://leepgroup.com/leep-job-business-development-executive
 https://leepgroup.com/leep-job-business-development-manager-1
 https://leepgroup.com/leep-job-candidate-engagement-executive-training-sales
 https://leepgroup.com/leep-job-data-analyst-business-coach
 https://leepgroup.com/leep-job-data-analyst-technical-trainer-training
 https://leepgroup.com/leep-job-data-and-ai-technical-trainer
+https://leepgroup.com/leep-job-hr-business-coach
 https://leepgroup.com/leep-job-it-business-coach
 https://leepgroup.com/leep-job-it-digital-skills-trainer
 https://leepgroup.com/leep-job-professional-development-trainer-training-freelance
@@ -199,6 +200,7 @@ https://leepgroup.com/roles/it-training-courses
 https://leepgroup.com/roles/management-training-courses
 https://leepgroup.com/roles/renewable-energy-training-courses
 https://leepgroup.com/safeguarding
+https://leepgroup.com/skills-bootcamps-in-liverpool-our-regions-leep-talent
 https://leepgroup.com/skills-bootcamps/ai-automation-technician-skills-bootcamp
 https://leepgroup.com/skills-bootcamps/air-source-heat-pumps-skills-bootcamp
 https://leepgroup.com/skills-bootcamps/cyber-security-technician-skills-bootcamp

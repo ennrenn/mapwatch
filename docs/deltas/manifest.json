@@ -1,6 +1,34 @@
 {
   "runs": [
     {
+      "date": "2026-11-23",
+      "file": "new_urls_2026-11-23.csv",
+      "added": 7,
+      "removed": 3,
+      "sites": {
+        "qa.com": {
+          "added": 1,
+          "removed": 0
+        },
+        "barbri.com": {
+          "added": 1,
+          "removed": 1
+        },
+        "mmu.ac.uk": {
+          "added": 1,
+          "removed": 1
+        },
+        "solent.ac.uk": {
+          "added": 1,
+          "removed": 0
+        },
+        "leepgroup.com": {
+          "added": 3,
+          "removed": 1
+        }
+      }
+    },
+    {
       "date": "2026-11-22",
       "file": "new_urls_2026-11-22.csv",
       "added": 12,
@@ -77,6 +105,6 @@
       }
     }
   ],
-  "last_checked": "2026-11-22",
+  "last_checked": "2026-11-23",
   "last_errors": []
 }

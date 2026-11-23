@@ -618,6 +618,7 @@ https://mmu.ac.uk/about-us/professional-services/uta/leading-developing-programm
 https://mmu.ac.uk/about-us/professional-services/uta/leading-developing-programmes/academic-leadership
 https://mmu.ac.uk/about-us/professional-services/uta/leading-developing-programmes/critical-higher-education-leadership
 https://mmu.ac.uk/about-us/professional-services/uta/leading-developing-programmes/developing-programmes
+https://mmu.ac.uk/about-us/professional-services/uta/leading-developing-programmes/leadership-courses-and-communities
 https://mmu.ac.uk/about-us/professional-services/uta/leading-developing-programmes/learning-outcomes
 https://mmu.ac.uk/about-us/professional-services/uta/leading-developing-programmes/management-plans
 https://mmu.ac.uk/about-us/professional-services/uta/leading-developing-programmes/module-action-plan
@@ -3761,7 +3762,6 @@ https://mmu.ac.uk/language-centre/pre-sessional-english/course-content
 https://mmu.ac.uk/language-centre/pre-sessional-english/entry-requirements
 https://mmu.ac.uk/language-centre/pre-sessional-english/faqs
 https://mmu.ac.uk/large-group-teaching
-https://mmu.ac.uk/leadership-courses-and-communities
 https://mmu.ac.uk/legal
 https://mmu.ac.uk/legal-and-policies/recognition-of-prior-learning
 https://mmu.ac.uk/legal/constitutional-legal-matters

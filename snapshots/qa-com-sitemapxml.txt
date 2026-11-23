@@ -785,6 +785,7 @@ https://www.qa.com/course-catalogue/bundles/
 https://www.qa.com/course-catalogue/bundles/apmg-agile-project-management-agilepm-foundation-version-3-elearning-with-exam-qaagpmfol/
 https://www.qa.com/course-catalogue/bundles/apmg-agile-project-management-agilepm-practitioner-version-3-elearning-with-exam-qaagpmpol/
 https://www.qa.com/course-catalogue/bundles/apmg-change-management-practitioner-elearning-qacm3pol/
+https://www.qa.com/course-catalogue/bundles/apmg-international-better-business-cases-foundation-elearning-with-online-exam-qabbcfelb/
 https://www.qa.com/course-catalogue/bundles/bcs-foundation-certificate-in-business-analysis-elearning-with-online-exam-bafoundelb/
 https://www.qa.com/course-catalogue/bundles/certified-cybersecurity-operations-analyst-e-learning-ccoaol/
 https://www.qa.com/course-catalogue/bundles/critical-communication-capability-ccc-framework-qacccf-bundle/
