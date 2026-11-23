@@ -3,28 +3,32 @@
     {
       "date": "2026-11-23",
       "file": "new_urls_2026-11-23.csv",
-      "added": 7,
-      "removed": 3,
+      "added": 12,
+      "removed": 17,
       "sites": {
         "qa.com": {
           "added": 1,
           "removed": 0
         },
         "barbri.com": {
-          "added": 1,
+          "added": 2,
           "removed": 1
         },
         "mmu.ac.uk": {
           "added": 1,
-          "removed": 1
+          "removed": 15
         },
         "solent.ac.uk": {
           "added": 1,
           "removed": 0
         },
         "leepgroup.com": {
-          "added": 3,
+          "added": 6,
           "removed": 1
+        },
+        "law.ac.uk": {
+          "added": 1,
+          "removed": 0
         }
       }
     },
@@ -106,5 +110,7 @@
     }
   ],
   "last_checked": "2026-11-23",
-  "last_errors": []
+  "last_errors": [
+    "https://www.qa.com/sitemapxml/: could not download https://www.qa.com/sitemapxml/ (HTTP Error 404: Not Found)"
+  ]
 }
