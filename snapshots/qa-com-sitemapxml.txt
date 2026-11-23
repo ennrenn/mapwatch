@@ -2189,6 +2189,7 @@ https://www.qa.com/course-catalogue/micro/how-to-stop-bad-data-from-ruining-your
 https://www.qa.com/course-catalogue/micro/multi-agent-systems-with-gemini-enterprise-agent-platform-when-one-ai-isnt-enough-qamasgem-m/
 https://www.qa.com/course-catalogue/micro/prompting-workshop-bring-your-own-ai-qabyod-m/
 https://www.qa.com/course-catalogue/micro/running-agile-teams-with-ai-agents-qarataia-m/
+https://www.qa.com/course-catalogue/micro/turn-an-idea-into-a-functional-app-using-vibe-coding-qatifavbe-m/
 https://www.qa.com/course-catalogue/micro/why-people-push-back-on-change-and-what-to-do-about-it-qawppbc-m/
 https://www.qa.com/course-catalogue/platform-courses/
 https://www.qa.com/course-catalogue/products/
