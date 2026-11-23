@@ -28,3 +28,8 @@ https://leepgroup.com/sitemap.xml
 https://www.balticapprenticeships.com/sitemap_index.xml
 https://makers.tech/sitemap.xml
 https://paragonskills.co.uk/sitemap.xml
+https://bpp.com/sitemap.xml
+https://firebrand.training/uk/sitemap.xml
+https://lyceum.education/sitemap.xml
+https://estio.co.uk/sitemap.xml
+https://staysharp.global/sitemap.xml
