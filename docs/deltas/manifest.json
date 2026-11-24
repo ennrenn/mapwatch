@@ -3,8 +3,8 @@
     {
       "date": "2026-11-24",
       "file": "new_urls_2026-11-24.csv",
-      "added": 33,
-      "removed": 18,
+      "added": 35,
+      "removed": 23,
       "sites": {
         "kaplan.co.uk": {
           "added": 2,
@@ -12,18 +12,18 @@
         },
         "firstintuition.co.uk": {
           "added": 3,
-          "removed": 3
+          "removed": 6
         },
         "barbri.com": {
           "added": 1,
-          "removed": 0
+          "removed": 1
         },
         "qa.com": {
           "added": 13,
           "removed": 8
         },
         "law.ac.uk": {
-          "added": 1,
+          "added": 2,
           "removed": 0
         },
         "mmu.ac.uk": {
@@ -39,8 +39,8 @@
           "removed": 5
         },
         "makers.tech": {
-          "added": 1,
-          "removed": 0
+          "added": 2,
+          "removed": 1
         }
       }
     },
