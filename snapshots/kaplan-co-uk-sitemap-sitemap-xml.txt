@@ -313,6 +313,7 @@ https://kaplan.co.uk/blog/digital-skills/introducing-analytics-in-power-bi-icaew
 https://kaplan.co.uk/blog/digital-skills/introducing-our-acca-finance-analyst-apprenticeship
 https://kaplan.co.uk/blog/digital-skills/is-microsoft-excel-still-relevant
 https://kaplan.co.uk/blog/digital-skills/kaplan-offers-data-and-tech-training
+https://kaplan.co.uk/blog/digital-skills/manage-ai-risks-in-the-workplace
 https://kaplan.co.uk/blog/digital-skills/mastering-business-analyst-skills-ai-cant-replace
 https://kaplan.co.uk/blog/digital-skills/predictions-and-trends-for-2024
 https://kaplan.co.uk/blog/digital-skills/the-best-way-to-think-about-ai-for-education
@@ -323,6 +324,7 @@ https://kaplan.co.uk/blog/digital-skills/uk-data-skills-imperative-adzuna
 https://kaplan.co.uk/blog/digital-skills/underskilled-staff-damage-productivity
 https://kaplan.co.uk/blog/digital-skills/upskilling-data-technology-audit
 https://kaplan.co.uk/blog/digital-skills/what-comes-after-data-analyst-career-paths
+https://kaplan.co.uk/blog/digital-skills/what-is-ai-literacy-senior-leaders
 https://kaplan.co.uk/blog/digital-skills/why-ai-automation-practitioners-are-key-to-business-efficiency
 https://kaplan.co.uk/blog/digital-skills/why-data-skills-matter-in-an-ai-world
 https://kaplan.co.uk/blog/digital-skills/why-most-ai-training-fails
