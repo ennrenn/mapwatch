@@ -1112,6 +1112,7 @@ https://www.qa.com/course-catalogue/courses/comptia-linuxplus-comlx25/
 https://www.qa.com/course-catalogue/courses/comptia-secaiplus-comsecai/
 https://www.qa.com/course-catalogue/courses/comptia-security-x-comsecx/
 https://www.qa.com/course-catalogue/courses/comptia-securityplus-comsec23/
+https://www.qa.com/course-catalogue/courses/comptia-securityplus-comsec26/
 https://www.qa.com/course-catalogue/courses/comptia-serverplus-comserv21/
 https://www.qa.com/course-catalogue/courses/comptia-techplus-comptechplu/
 https://www.qa.com/course-catalogue/courses/configuration-management-database-cmdb-fundamentals-tpqasncmdbd/
@@ -1119,6 +1120,7 @@ https://www.qa.com/course-catalogue/courses/configure-and-govern-entitlement-wit
 https://www.qa.com/course-catalogue/courses/configure-and-operate-microsoft-azure-virtual-desktop-az-140-maz140/
 https://www.qa.com/course-catalogue/courses/configure-secure-access-to-your-workloads-using-azure-virtual-networking-applied-skills-workshop-maz1002/
 https://www.qa.com/course-catalogue/courses/configure-siem-security-operations-using-microsoft-sentinel-applied-skills-workshop-msc5001/
+https://www.qa.com/course-catalogue/courses/configuring-and-managing-red-hat-openshift-networking-do282ls-do282ls/
 https://www.qa.com/course-catalogue/courses/configuring-big-ip-advanced-waf-web-application-firewall-175-tpf5n_big-awf-cfg/
 https://www.qa.com/course-catalogue/courses/configuring-big-ip-apm-access-policy-manager-v175-tpf5n_big-egw-apm/
 https://www.qa.com/course-catalogue/courses/configuring-big-ip-dns-formerly-gtm-v175-tpf5n_big-dns-i/
@@ -1221,8 +1223,8 @@ https://www.qa.com/course-catalogue/courses/develop-computer-vision-solutions-in
 https://www.qa.com/course-catalogue/courses/develop-generative-ai-apps-in-azure-applied-skills-workshop-mai3016/
 https://www.qa.com/course-catalogue/courses/develop-natural-language-solutions-in-azure-mai3003/
 https://www.qa.com/course-catalogue/courses/develop-solutions-with-dynamics-365-business-central-mb820/
-https://www.qa.com/course-catalogue/courses/develop-test-and-run-granite-family-llms-with-red-hat-enterprise-linux-ai-virtual-training-ai296ls-ai296ls/
 https://www.qa.com/course-catalogue/courses/developing-a-modern-business-intelligence-system-qadmbis/
+https://www.qa.com/course-catalogue/courses/developing-advanced-automation-with-red-hat-ansible-automation-platform-au374ls-au374ls/
 https://www.qa.com/course-catalogue/courses/developing-advanced-automation-with-red-hat-ansible-automation-platform-classroom-training-au374/
 https://www.qa.com/course-catalogue/courses/developing-advanced-automation-with-red-hat-ansible-automation-platform-with-exam-classroom-training-au375/
 https://www.qa.com/course-catalogue/courses/developing-and-deploying-aiml-applications-on-red-hat-openshift-ai-virtual-training-ai267ls-ai267ls/
@@ -1470,6 +1472,7 @@ https://www.qa.com/course-catalogue/courses/introduction-to-developer-efficiency
 https://www.qa.com/course-catalogue/courses/introduction-to-dynamics-365-sales-qad365ntro/
 https://www.qa.com/course-catalogue/courses/introduction-to-emotional-intelligence-qaiei/
 https://www.qa.com/course-catalogue/courses/introduction-to-endpoint-management-qaiem/
+https://www.qa.com/course-catalogue/courses/introduction-to-event-driven-ansible-do274ls-do274ls/
 https://www.qa.com/course-catalogue/courses/introduction-to-finance-in-dynamics-365-mab6002/
 https://www.qa.com/course-catalogue/courses/introduction-to-juniper-security-ijsec-tpjun_ijsec/
 https://www.qa.com/course-catalogue/courses/introduction-to-kanban-qaitkb/
@@ -1691,7 +1694,7 @@ https://www.qa.com/course-catalogue/courses/microsoft-word-managing-long-documen
 https://www.qa.com/course-catalogue/courses/migrate-sql-server-workload-to-azure-sql-applied-skills-workshop-mdp3001/
 https://www.qa.com/course-catalogue/courses/migrating-to-aws-amwsm/
 https://www.qa.com/course-catalogue/courses/migrating-virtual-machines-to-red-hat-openshift-virtualization-with-ansible-automation-platform-classroom-training-do346/
-https://www.qa.com/course-catalogue/courses/migrating-virtual-machines-to-red-hat-openshift-virtualization-with-ansible-automation-platform-red-hat-learning-subscription-course-do346ls/
+https://www.qa.com/course-catalogue/courses/migrating-virtual-machines-to-red-hat-openshift-virtualization-with-ansible-automation-platform-do346ls-do346ls/
 https://www.qa.com/course-catalogue/courses/mlops-engineering-on-aws-amwsmlops/
 https://www.qa.com/course-catalogue/courses/mlops-practices-with-red-hat-openshift-ai-classroom-training-ai500/
 https://www.qa.com/course-catalogue/courses/modern-desktop-and-mobile-device-management-with-microsoft-intune-qamsmem/
@@ -1753,6 +1756,7 @@ https://www.qa.com/course-catalogue/courses/opa-in-practice-qaopaip/
 https://www.qa.com/course-catalogue/courses/open-source-intelligence-osint-a-course-for-investigators-qaintinv/
 https://www.qa.com/course-catalogue/courses/openstack-administration-control-plane-management-cl170ls-cl170ls/
 https://www.qa.com/course-catalogue/courses/openstack-administration-control-plane-management-classroom-training-cl170/
+https://www.qa.com/course-catalogue/courses/openstack-administration-ii-deploy-control-plane-services-and-manage-data-plane-nodes-cl270ls-cl270ls/
 https://www.qa.com/course-catalogue/courses/opentext-core-capture-for-sap-solutions-learning-paths-tp113712/
 https://www.qa.com/course-catalogue/courses/operationalize-machine-learning-and-generative-ai-solutions-mai300/
 https://www.qa.com/course-catalogue/courses/oracle-cloud-infrastructure-architect-associate-2023-hands-on-workshop-occiaaw23/
@@ -1863,11 +1867,10 @@ https://www.qa.com/course-catalogue/courses/rapid-application-development-with-l
 https://www.qa.com/course-catalogue/courses/react-advanced-qaadvreact/
 https://www.qa.com/course-catalogue/courses/red-hat-advanced-cluster-management-for-kubernetes-do432ls-do432ls/
 https://www.qa.com/course-catalogue/courses/red-hat-ansible-automation-platform-boot-camp-classroom-training-au710/
-https://www.qa.com/course-catalogue/courses/red-hat-ansible-for-network-automation-do457ls-do457ls/
+https://www.qa.com/course-catalogue/courses/red-hat-ansible-for-network-automation-au457ls-au457ls/
 https://www.qa.com/course-catalogue/courses/red-hat-app-development-application-administration-i-ad248/
 https://www.qa.com/course-catalogue/courses/red-hat-application-development-i-programming-in-java-ee-ad183/
 https://www.qa.com/course-catalogue/courses/red-hat-application-development-i-programming-in-java-ee-with-exam-classroom-training-ad184/
-https://www.qa.com/course-catalogue/courses/red-hat-ceph-storage-for-openstack-cl260ls-cl260ls/
 https://www.qa.com/course-catalogue/courses/red-hat-certified-advanced-developer-in-cloud-native-applications-exam-ex288/
 https://www.qa.com/course-catalogue/courses/red-hat-certified-advanced-system-administrator-in-ansible-exam-ex294/
 https://www.qa.com/course-catalogue/courses/red-hat-certified-specialist-in-enterprise-application-development-exam-ex183/
@@ -1889,7 +1892,7 @@ https://www.qa.com/course-catalogue/courses/red-hat-openshift-administration-ii-
 https://www.qa.com/course-catalogue/courses/red-hat-openshift-administration-iii-scaling-deployments-in-the-enterprise-do380ls-do380ls/
 https://www.qa.com/course-catalogue/courses/red-hat-openshift-administration-iii-scaling-deployments-in-the-enterprise-with-exam-classroom-training-do381/
 https://www.qa.com/course-catalogue/courses/red-hat-openshift-developer-ii-building-and-deploying-cloud-native-applications-classroom-training-do288/
-https://www.qa.com/course-catalogue/courses/red-hat-openshift-developer-ii-building-and-deploying-cloud-native-applications-red-hat-learning-subscription-course-do288ls/
+https://www.qa.com/course-catalogue/courses/red-hat-openshift-developer-ii-building-and-deploying-cloud-native-applications-do288ls-do288ls/
 https://www.qa.com/course-catalogue/courses/red-hat-openshift-developer-ii-building-and-deploying-cloud-native-applications-with-exam-classroom-training-do289/
 https://www.qa.com/course-catalogue/courses/red-hat-openshift-development-i-introduction-to-containers-with-podman-do188ls-do188ls/
 https://www.qa.com/course-catalogue/courses/red-hat-openshift-virtualization-administration-i-operating-virtual-machines-classroom-training-do156/
@@ -1902,7 +1905,7 @@ https://www.qa.com/course-catalogue/courses/red-hat-openshift-virtualization-adm
 https://www.qa.com/course-catalogue/courses/red-hat-openshift-virtualization-administration-ii-configuring-production-virtual-machines-virtual-training-do256vt/
 https://www.qa.com/course-catalogue/courses/red-hat-openstack-administration-i-core-operations-for-domain-operators-cl110ls-cl110ls/
 https://www.qa.com/course-catalogue/courses/red-hat-openstack-administration-ii-day-2-operations-for-cloud-operators-cl210/
-https://www.qa.com/course-catalogue/courses/red-hat-openstack-administration-ii-day-2-operations-for-cloud-operators-red-hat-learning-subscription-course-cl210ls/
+https://www.qa.com/course-catalogue/courses/red-hat-openstack-administration-ii-day-2-operations-for-cloud-operators-cl210ls-cl210ls/
 https://www.qa.com/course-catalogue/courses/red-hat-openstack-administration-ii-day-2-operations-for-cloud-operators-with-exam-classroom-training-cl211/
 https://www.qa.com/course-catalogue/courses/red-hat-openstack-services-on-openshift-boot-camp-classroom-training-cl740/
 https://www.qa.com/course-catalogue/courses/red-hat-satellite-6-administration-rh403ls-rh403ls/
@@ -2084,6 +2087,7 @@ https://www.qa.com/course-catalogue/courses/vsphere-kubernetes-service-design-de
 https://www.qa.com/course-catalogue/courses/wcna-certification-for-wireshark-tpwcna/
 https://www.qa.com/course-catalogue/courses/web-development-fundamentals-html-and-css-qahtmlcss/
 https://www.qa.com/course-catalogue/courses/web-development-fundamentals-javascript-qajsfund/
+https://www.qa.com/course-catalogue/courses/what-ai-cant-do-human-skills-for-every-project-manager-qahsepm/
 https://www.qa.com/course-catalogue/courses/whats-new-in-vmware-cloud-foundation-v91-vmvcf91wn/
 https://www.qa.com/course-catalogue/courses/whiteboard-hacking-aka-hands-on-threat-modelling-qatorwbh/
 https://www.qa.com/course-catalogue/courses/windows-11-overview-for-the-it-professional-qawin11itp/
@@ -2196,6 +2200,7 @@ https://www.qa.com/course-catalogue/products/
 https://www.qa.com/course-catalogue/products/apm-project-fundamentals-qualification-pfq-elearning-qapfqel/
 https://www.qa.com/course-catalogue/products/apm-project-management-qualification-pmq-elearning-qapmqel/
 https://www.qa.com/course-catalogue/products/apm-project-risk-certificate-level-1-elearning-qaprcel/
+https://www.qa.com/course-catalogue/products/apmg-international-better-business-cases-foundation-elearning-qabbcfel/
 https://www.qa.com/course-catalogue/products/apmg-project-planning-control-foundation-elearning-qappcfel/
 https://www.qa.com/course-catalogue/products/apmg-project-planning-control-practitioner-elearning-qappcpel/
 https://www.qa.com/course-catalogue/products/bcs-foundation-certificate-in-business-analysis-elearning-bafoundel/
@@ -2592,6 +2597,7 @@ https://www.qa.com/resources/events/accelerate-your-ai-career-l6-ai-machine-lear
 https://www.qa.com/resources/events/accelerate-your-skills-data-essentials-programme-insight-session/
 https://www.qa.com/resources/events/ace-your-apprenticeship-interview/
 https://www.qa.com/resources/events/agentic-ai-concepts-and-capabilities-in-action/
+https://www.qa.com/resources/events/agentic-ai-foundations-feb-2027/
 https://www.qa.com/resources/events/ai-agent-essentials-on-google-cloud/
 https://www.qa.com/resources/events/ai-and-future-careers/
 https://www.qa.com/resources/events/ai-apprenticeship-units-what-s-changing-and-what-it-means-for-you/
@@ -2640,8 +2646,7 @@ https://www.qa.com/resources/events/from-chaos-to-clarity-turning-messy-data-int
 https://www.qa.com/resources/events/from-prompt-to-productivity-copilot-chat-essentials-18-may-2026/
 https://www.qa.com/resources/events/from-prompt-to-productivity-copilot-chat-essentials/
 https://www.qa.com/resources/events/future-forward-discover-the-power-of-apprenticeships-with-qa-microsoft/
-https://www.qa.com/resources/events/generative-ai-essentials-on-aws-june/
-https://www.qa.com/resources/events/generative-ai-essentials-on-aws-september/
+https://www.qa.com/resources/events/generative-ai-essentials-on-aws-jan-2027/
 https://www.qa.com/resources/events/how-to-be-an-effective-mentor-meetup/
 https://www.qa.com/resources/events/how-to-plan-your-career-effectively-in-partnership-with-pathway-ctm/
 https://www.qa.com/resources/events/how-to-plan-your-career-effectively/

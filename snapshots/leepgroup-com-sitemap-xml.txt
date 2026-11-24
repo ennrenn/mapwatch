@@ -1,8 +1,17 @@
 https://leepgroup.com
 https://leepgroup.com/about-us
 https://leepgroup.com/about-us/our-regions
+https://leepgroup.com/about-us/our-regions/bedfordshire
+https://leepgroup.com/about-us/our-regions/devon
 https://leepgroup.com/about-us/our-regions/east-midlands
+https://leepgroup.com/about-us/our-regions/liverpool
+https://leepgroup.com/about-us/our-regions/london
+https://leepgroup.com/about-us/our-regions/norfolk-suffolk
+https://leepgroup.com/about-us/our-regions/north-east
+https://leepgroup.com/about-us/our-regions/north-yorkshire
 https://leepgroup.com/about-us/our-regions/south-yorkshire
+https://leepgroup.com/about-us/our-regions/west-midlands
+https://leepgroup.com/about-us/our-regions/west-northamptonshire
 https://leepgroup.com/ai-apprenticeship-units-upcoming-course-dates
 https://leepgroup.com/ai-maturity-quiz-apprenticeship-units
 https://leepgroup.com/ai-maturity-quiz-apprenticeship-units-2026
@@ -185,7 +194,7 @@ https://leepgroup.com/level-2-ai-productivity-for-the-workplace-short-course
 https://leepgroup.com/level-3-ai-applied-marketing-short-course
 https://leepgroup.com/meet-the-talent-team-leep
 https://leepgroup.com/microsoft-security-compliance-identity-fundamentals-course-leep
-https://leepgroup.com/nemsa-training-programmes-leep
+https://leepgroup.com/nemsa/ai-automation-technician
 https://leepgroup.com/networking-cybersecurity-short-course-leep
 https://leepgroup.com/privacy-policy
 https://leepgroup.com/promotions/black-friday-sale
@@ -200,10 +209,6 @@ https://leepgroup.com/roles/it-training-courses
 https://leepgroup.com/roles/management-training-courses
 https://leepgroup.com/roles/renewable-energy-training-courses
 https://leepgroup.com/safeguarding
-https://leepgroup.com/skills-bootcamps-in-bedfordshire-our-regions-leep-talent
-https://leepgroup.com/skills-bootcamps-in-liverpool-our-regions-leep-talent
-https://leepgroup.com/skills-bootcamps-in-north-yorkshire-our-regions-leep-talent
-https://leepgroup.com/skills-bootcamps-in-west-northamptonshire-our-regions-leep-talent
 https://leepgroup.com/skills-bootcamps/ai-automation-technician-skills-bootcamp
 https://leepgroup.com/skills-bootcamps/air-source-heat-pumps-skills-bootcamp
 https://leepgroup.com/skills-bootcamps/cyber-security-technician-skills-bootcamp

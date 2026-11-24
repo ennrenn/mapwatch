@@ -2062,6 +2062,7 @@ https://www.solent.ac.uk/media-hub/news/art-to-go
 https://www.solent.ac.uk/media-hub/news/ask-the-experts-sticking-to-fitness-goals
 https://www.solent.ac.uk/media-hub/news/athlete-support-officer-wins-respected-practitioner-of-the-year-award
 https://www.solent.ac.uk/media-hub/news/atlantic-rowing-trio-complete-historic-challenge-with-help-from-solent
+https://www.solent.ac.uk/media-hub/news/autonomous-vessel-facility-to-power-future-maritime-skills
 https://www.solent.ac.uk/media-hub/news/award-winning-alumna-receives-honorary-degree
 https://www.solent.ac.uk/media-hub/news/award-winning-business-leader-receives-honorary-degree-1
 https://www.solent.ac.uk/media-hub/news/award-winning-filmmakers-visit-solent-for-essential-panel
@@ -3252,6 +3253,7 @@ https://www.solent.ac.uk/staff/academic/taiwo-ayodele
 https://www.solent.ac.uk/staff/academic/ted-carrasco
 https://www.solent.ac.uk/staff/academic/terence-mcsweeney
 https://www.solent.ac.uk/staff/academic/thea-chan
+https://www.solent.ac.uk/staff/academic/thomas-burgess
 https://www.solent.ac.uk/staff/academic/tim-jackson
 https://www.solent.ac.uk/staff/academic/tim-scrace
 https://www.solent.ac.uk/staff/academic/toby-bishop

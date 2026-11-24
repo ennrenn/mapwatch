@@ -1134,7 +1134,6 @@ https://mmu.ac.uk/direct-application-service-has-moved
 https://mmu.ac.uk/drupal-dev/about-us/200-years/science-and-health
 https://mmu.ac.uk/drupal_dev/PGR-fees
 https://mmu.ac.uk/drupal_dev/abi-homepage-test-page
-https://mmu.ac.uk/drupal_dev/about-us-do-not-use
 https://mmu.ac.uk/drupal_dev/about-us/faculties/arts-humanities/about/cultural-resources/theatre
 https://mmu.ac.uk/drupal_dev/about-us/faculties/arts-humanities/schools/english/manchester-school-of-theatre
 https://mmu.ac.uk/drupal_dev/about-us/faculties/arts-humanities/schools/english/manchester-school-of-theatre/contact-us
@@ -1161,7 +1160,6 @@ https://mmu.ac.uk/drupal_dev/adams-test-page-2
 https://mmu.ac.uk/drupal_dev/adams-test-page-3
 https://mmu.ac.uk/drupal_dev/advanced-materials-surface-engineering
 https://mmu.ac.uk/drupal_dev/an-page-header-image-alignment
-https://mmu.ac.uk/drupal_dev/an-test-cropping-and-placement-of-images
 https://mmu.ac.uk/drupal_dev/an-test-page-mmutube
 https://mmu.ac.uk/drupal_dev/an-test-tables-for-accessibility
 https://mmu.ac.uk/drupal_dev/apprentice-case-studies-master

@@ -3,18 +3,42 @@
     {
       "date": "2026-11-24",
       "file": "new_urls_2026-11-24.csv",
-      "added": 3,
-      "removed": 3,
+      "added": 33,
+      "removed": 18,
       "sites": {
         "kaplan.co.uk": {
           "added": 2,
           "removed": 0
         },
         "firstintuition.co.uk": {
-          "added": 0,
+          "added": 3,
           "removed": 3
         },
         "barbri.com": {
+          "added": 1,
+          "removed": 0
+        },
+        "qa.com": {
+          "added": 13,
+          "removed": 8
+        },
+        "law.ac.uk": {
+          "added": 1,
+          "removed": 0
+        },
+        "mmu.ac.uk": {
+          "added": 0,
+          "removed": 2
+        },
+        "solent.ac.uk": {
+          "added": 2,
+          "removed": 0
+        },
+        "leepgroup.com": {
+          "added": 10,
+          "removed": 5
+        },
+        "makers.tech": {
           "added": 1,
           "removed": 0
         }
