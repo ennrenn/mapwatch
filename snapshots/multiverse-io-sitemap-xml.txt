@@ -158,6 +158,7 @@ https://www.multiverse.io/blog/lbgtq-multiverse-2024
 https://www.multiverse.io/blog/leaders-precise-insights-every-department-ai-capability-adoption-barriers
 https://www.multiverse.io/blog/learning-agility-a-new-model-of-learning-potential
 https://www.multiverse.io/blog/lewisham-and-greenwich-nhs-trust-launch-data-and-digital-academy
+https://www.multiverse.io/blog/linklaters-partners-with-multiverse-to-build-ai-skills
 https://www.multiverse.io/blog/lisa-pinfield-capita
 https://www.multiverse.io/blog/liverpool-john-moores-university-launches-ai-academy-to-free-up-staff-time-and-improve-student-experience
 https://www.multiverse.io/blog/machine-learning
@@ -172,6 +173,7 @@ https://www.multiverse.io/blog/meet-colin-mackenzie-multiverses-new-vp-of-ai-eng
 https://www.multiverse.io/blog/meet-kelly-griffith-our-new-svp-of-coaching-delivery
 https://www.multiverse.io/blog/mencap-aims-to-create-over-50-apprenticeships-in-a-new-data-academy
 https://www.multiverse.io/blog/mind-the-gap-why-your-ai-strategy-might-be-leaving-your-team-behind
+https://www.multiverse.io/blog/minds-behind-mastry-ai-engineering-team
 https://www.multiverse.io/blog/morgan-sindall-infrastructure-builds-out-data-academy-as-upskilling-initiative-saves-7-200-hours-annually
 https://www.multiverse.io/blog/multiverse-and-palantir-launch-a-strategic-partnership-to-accelerate-tech-adoption
 https://www.multiverse.io/blog/multiverse-and-palantir-partner-to-launch-nhs-fdp-apprenticeship-programmes
@@ -321,6 +323,7 @@ https://www.multiverse.io/case-studies/john-lewis-partnership-case-study
 https://www.multiverse.io/case-studies/keele-university
 https://www.multiverse.io/case-studies/nationwide-case-study
 https://www.multiverse.io/case-studies/nhs-case-study
+https://www.multiverse.io/case-studies/north-london-nhs
 https://www.multiverse.io/case-studies/north-london-nhs-foundation-trust-case-study
 https://www.multiverse.io/case-studies/nurturing-future-leaders-at-hargreaves-lansdown
 https://www.multiverse.io/case-studies/powering-collaborative-digital-and-data-transformation-across-leeds-health-and-social-care
@@ -347,6 +350,7 @@ https://www.multiverse.io/employers/programmes/ai-solutions-builder
 https://www.multiverse.io/employers/programmes/ai-transformation-architect
 https://www.multiverse.io/employers/programmes/applied-data-engineering
 https://www.multiverse.io/employers/programmes/data-and-ai-accelerator
+https://www.multiverse.io/employers/programmes/data-and-insights-for-business-decisions
 https://www.multiverse.io/employers/programmes/data-and-insights-with-ai-fundamentals
 https://www.multiverse.io/employers/programmes/data-fellowship
 https://www.multiverse.io/employers/programmes/dev-ops-engineering-upskilling

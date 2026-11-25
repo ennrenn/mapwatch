@@ -132,6 +132,7 @@ https://www.balticapprenticeships.com/blog/category/apprentice/
 https://www.balticapprenticeships.com/blog/category/blog/
 https://www.balticapprenticeships.com/blog/category/careers/
 https://www.balticapprenticeships.com/blog/category/resources/
+https://www.balticapprenticeships.com/blog/category/uncategorized/
 https://www.balticapprenticeships.com/blog/celebrating-women-in-tech-meet-faith/
 https://www.balticapprenticeships.com/blog/coding-careers-professional-development-for-junior-software-developers/
 https://www.balticapprenticeships.com/blog/comptia-apprenticeship-partnership/
@@ -150,6 +151,7 @@ https://www.balticapprenticeships.com/blog/data-careers-the-top-10-industries-do
 https://www.balticapprenticeships.com/blog/data-engineer-vs-data-analyst/
 https://www.balticapprenticeships.com/blog/data-literacy-and-ai/
 https://www.balticapprenticeships.com/blog/data-literacy-in-modern-marketing/
+https://www.balticapprenticeships.com/blog/data-readiness-for-ai/
 https://www.balticapprenticeships.com/blog/data-skills-bootcamp-how-can-your-business-benefit/
 https://www.balticapprenticeships.com/blog/data-team-transformed-business-practices/
 https://www.balticapprenticeships.com/blog/digital-marketing-jargon-buster/
@@ -688,7 +690,6 @@ https://www.balticapprenticeships.com/vacancy/j-014683/
 https://www.balticapprenticeships.com/vacancy/j-014714/
 https://www.balticapprenticeships.com/vacancy/j-014716/
 https://www.balticapprenticeships.com/vacancy/j-014720/
-https://www.balticapprenticeships.com/vacancy/j-014730/
 https://www.balticapprenticeships.com/vacancy/j-014739/
 https://www.balticapprenticeships.com/vacancy/j-014757/
 https://www.balticapprenticeships.com/vacancy/j-014772/
@@ -724,6 +725,12 @@ https://www.balticapprenticeships.com/vacancy/j-014855/
 https://www.balticapprenticeships.com/vacancy/j-014856/
 https://www.balticapprenticeships.com/vacancy/j-014858/
 https://www.balticapprenticeships.com/vacancy/j-014859/
+https://www.balticapprenticeships.com/vacancy/j-014860/
+https://www.balticapprenticeships.com/vacancy/j-014861/
 https://www.balticapprenticeships.com/vacancy/j-014863/
+https://www.balticapprenticeships.com/vacancy/j-014870/
+https://www.balticapprenticeships.com/vacancy/j-014872/
+https://www.balticapprenticeships.com/vacancy/j-014873/
+https://www.balticapprenticeships.com/vacancy/j-014876/
 https://www.balticapprenticeships.com/why-learn-with-baltic/
 https://www.balticapprenticeships.com/workforce-transformation/

@@ -5504,7 +5504,6 @@ https://mmu.ac.uk/study/support-for-specific-groups-of-students/mature-students
 https://mmu.ac.uk/study/support-for-specific-groups-of-students/students-caring-responsibilities-and-pregnant-students
 https://mmu.ac.uk/study/undergraduate
 https://mmu.ac.uk/study/undergraduate/acting-drama-and-performance
-https://mmu.ac.uk/study/undergraduate/after-you-have-applied
 https://mmu.ac.uk/study/undergraduate/apply/apply-late
 https://mmu.ac.uk/study/undergraduate/apply/apply-late/tabatha
 https://mmu.ac.uk/study/undergraduate/before-you-apply
@@ -5543,6 +5542,7 @@ https://mmu.ac.uk/study/undergraduate/how-to-apply/when-to-apply
 https://mmu.ac.uk/study/undergraduate/how-to-apply/writing-your-personal-statement
 https://mmu.ac.uk/study/undergraduate/it-begins-with-you
 https://mmu.ac.uk/study/undergraduate/mature-students
+https://mmu.ac.uk/study/undergraduate/offer-holder
 https://mmu.ac.uk/study/undergraduate/parents
 https://mmu.ac.uk/study/undergraduate/parents/student-living-manchester-met
 https://mmu.ac.uk/study/undergraduate/prospectus

@@ -1792,7 +1792,6 @@ https://www.qa.com/course-catalogue/courses/platform-analytics-pa-advanced-tpqas
 https://www.qa.com/course-catalogue/courses/platform-analytics-pa-fundamentals-qasnpafund/
 https://www.qa.com/course-catalogue/courses/platform-analytics-pa-fundamentals-tpqasnpafund/
 https://www.qa.com/course-catalogue/courses/pmi-authorised-pmp-exam-preparation-qapmp6/
-https://www.qa.com/course-catalogue/courses/post-quantum-cryptography-qascapqc/
 https://www.qa.com/course-catalogue/courses/power-bi-desktop-for-business-users-qapbidt3/
 https://www.qa.com/course-catalogue/courses/power-bi-desktop-for-technical-users-qapbidesk/
 https://www.qa.com/course-catalogue/courses/power-bi-desktop-fundamentals-qapbifund/
@@ -1858,9 +1857,7 @@ https://www.qa.com/course-catalogue/courses/qa-certificate-in-resource-schedulin
 https://www.qa.com/course-catalogue/courses/qa-certificate-in-risk-management-qarmm/
 https://www.qa.com/course-catalogue/courses/qa-certificate-in-scheduling-best-practice-qasbp/
 https://www.qa.com/course-catalogue/courses/qa-chpp-chartered-project-professional-application-support-programme-qachpp/
-https://www.qa.com/course-catalogue/courses/quantum-computing-fundamentals-qascaqcf/
 https://www.qa.com/course-catalogue/courses/quantum-computing-introductory-workshop-qaquwks/
-https://www.qa.com/course-catalogue/courses/quantum-secure-communication-qascaqsc/
 https://www.qa.com/course-catalogue/courses/querying-sql-databases-using-t-sql-qatsql/
 https://www.qa.com/course-catalogue/courses/racf-administration-auditing-tpmrfa/
 https://www.qa.com/course-catalogue/courses/racf-advanced-administration-tpraad/
@@ -2080,6 +2077,7 @@ https://www.qa.com/course-catalogue/courses/vmware-vsphere-advanced-administrati
 https://www.qa.com/course-catalogue/courses/vmware-vsphere-design-v80-vmwarev8d/
 https://www.qa.com/course-catalogue/courses/vmware-vsphere-fast-track-v8-vmwareft8/
 https://www.qa.com/course-catalogue/courses/vmware-vsphere-foundation-build-manage-operate-v90-vmvvf9bmo/
+https://www.qa.com/course-catalogue/courses/vmware-vsphere-foundation-build-manage-operate-v91-vmvvf91bmo/
 https://www.qa.com/course-catalogue/courses/vmware-vsphere-install-configure-manage-80-vmwareicm8/
 https://www.qa.com/course-catalogue/courses/vmware-vsphere-operate-scale-and-secure-vmware8oss/
 https://www.qa.com/course-catalogue/courses/vmware-vsphere-troubleshooting-v8-vmwarev8ts/
