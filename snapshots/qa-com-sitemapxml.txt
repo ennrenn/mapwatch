@@ -1068,6 +1068,8 @@ https://www.qa.com/course-catalogue/courses/certified-wireless-security-professi
 https://www.qa.com/course-catalogue/courses/change-management-fundamentals-qacmfun/
 https://www.qa.com/course-catalogue/courses/check-point-security-administration-ccsa-cpccsar/
 https://www.qa.com/course-catalogue/courses/check-point-security-engineering-ccse-cpccser/
+https://www.qa.com/course-catalogue/courses/cics-transaction-server-concepts-facilities-tpca/
+https://www.qa.com/course-catalogue/courses/cicsts-application-programming-workshop-tpcapw/
 https://www.qa.com/course-catalogue/courses/cisco-nso-advanced-for-python-programmers-tpci-nso300/
 https://www.qa.com/course-catalogue/courses/citrix-daas-deployment-and-administration-cws255/
 https://www.qa.com/course-catalogue/courses/citrix-enterprise-deployment-monitoring-and-troubleshooting-combo-ctx314/

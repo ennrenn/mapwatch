@@ -1,6 +1,34 @@
 {
   "runs": [
     {
+      "date": "2026-11-25",
+      "file": "new_urls_2026-11-25.csv",
+      "added": 5,
+      "removed": 1,
+      "sites": {
+        "qa.com": {
+          "added": 2,
+          "removed": 0
+        },
+        "kaplan.co.uk": {
+          "added": 1,
+          "removed": 0
+        },
+        "law.ac.uk": {
+          "added": 0,
+          "removed": 1
+        },
+        "cdn.arden.ac.uk": {
+          "added": 1,
+          "removed": 0
+        },
+        "mmu.ac.uk": {
+          "added": 1,
+          "removed": 0
+        }
+      }
+    },
+    {
       "date": "2026-11-24",
       "file": "new_urls_2026-11-24.csv",
       "added": 35,
@@ -157,6 +185,6 @@
       }
     }
   ],
-  "last_checked": "2026-11-24",
+  "last_checked": "2026-11-25",
   "last_errors": []
 }
