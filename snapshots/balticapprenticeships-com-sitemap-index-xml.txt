@@ -259,6 +259,7 @@ https://www.balticapprenticeships.com/blog/programme-category/data-business-insi
 https://www.balticapprenticeships.com/blog/programme-category/ict-support-technician-level-3/
 https://www.balticapprenticeships.com/blog/programme-category/infrastructure-and-security-engineer-level-4/
 https://www.balticapprenticeships.com/blog/programme-category/modern-marketing-professional-level-3/
+https://www.balticapprenticeships.com/blog/programme-category/multi-channel-marketer-level-3/
 https://www.balticapprenticeships.com/blog/programme-category/software-developer-level-4/
 https://www.balticapprenticeships.com/blog/recruit-an-apprentice-a-step-by-step-guide/
 https://www.balticapprenticeships.com/blog/resources-to-improve-your-chances-when-applying-for-a-data-analyst-apprenticeship/
@@ -698,7 +699,6 @@ https://www.balticapprenticeships.com/vacancy/j-014794/
 https://www.balticapprenticeships.com/vacancy/j-014795/
 https://www.balticapprenticeships.com/vacancy/j-014796/
 https://www.balticapprenticeships.com/vacancy/j-014804/
-https://www.balticapprenticeships.com/vacancy/j-014807/
 https://www.balticapprenticeships.com/vacancy/j-014811/
 https://www.balticapprenticeships.com/vacancy/j-014816/
 https://www.balticapprenticeships.com/vacancy/j-014821/
@@ -708,7 +708,6 @@ https://www.balticapprenticeships.com/vacancy/j-014824/
 https://www.balticapprenticeships.com/vacancy/j-014826/
 https://www.balticapprenticeships.com/vacancy/j-014830/
 https://www.balticapprenticeships.com/vacancy/j-014831/
-https://www.balticapprenticeships.com/vacancy/j-014832/
 https://www.balticapprenticeships.com/vacancy/j-014833/
 https://www.balticapprenticeships.com/vacancy/j-014834/
 https://www.balticapprenticeships.com/vacancy/j-014836/
@@ -722,5 +721,9 @@ https://www.balticapprenticeships.com/vacancy/j-014847/
 https://www.balticapprenticeships.com/vacancy/j-014850/
 https://www.balticapprenticeships.com/vacancy/j-014851/
 https://www.balticapprenticeships.com/vacancy/j-014855/
+https://www.balticapprenticeships.com/vacancy/j-014856/
+https://www.balticapprenticeships.com/vacancy/j-014858/
+https://www.balticapprenticeships.com/vacancy/j-014859/
+https://www.balticapprenticeships.com/vacancy/j-014863/
 https://www.balticapprenticeships.com/why-learn-with-baltic/
 https://www.balticapprenticeships.com/workforce-transformation/
