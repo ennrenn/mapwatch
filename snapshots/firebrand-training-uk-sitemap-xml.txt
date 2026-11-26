@@ -264,7 +264,7 @@ https://firebrand.training/uk/courses/isaca/cisa-certification
 https://firebrand.training/uk/courses/isaca/cism-certification
 https://firebrand.training/uk/courses/isaca/cobit-19-foundation-design-implementation-certification
 https://firebrand.training/uk/courses/isaca/cobit-2019-design-implementation-certification
-https://firebrand.training/uk/courses/isaca/cobit-2019-foundation-certification
+https://firebrand.training/uk/courses/isaca/cobit-foundation
 https://firebrand.training/uk/courses/isaca/cobit-foundation-implementation-certification
 https://firebrand.training/uk/courses/isaca/crisc-certification
 https://firebrand.training/uk/courses/isaca/cybersecurity-audit-certificate

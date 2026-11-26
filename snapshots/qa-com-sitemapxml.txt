@@ -2064,7 +2064,6 @@ https://www.qa.com/course-catalogue/courses/vmware-aria-operations-install-confi
 https://www.qa.com/course-catalogue/courses/vmware-cloud-director-deploy-configure-manage-v106-vmcdicm106/
 https://www.qa.com/course-catalogue/courses/vmware-cloud-foundation-automate-and-operate-v91-vmvcf91oa/
 https://www.qa.com/course-catalogue/courses/vmware-cloud-foundation-build-manage-and-secure-91-vmvcf91bms/
-https://www.qa.com/course-catalogue/courses/vmware-cloud-foundation-deploy-configure-manage-v52-vmwarevcf52/
 https://www.qa.com/course-catalogue/courses/vmware-cloud-foundation-solution-architecture-and-design-90-vmvcf9sad/
 https://www.qa.com/course-catalogue/courses/vmware-cloud-foundation-troubleshooting-v91-vmvcf91ts/
 https://www.qa.com/course-catalogue/courses/vmware-nsx-design-v4x-vmnsxd4/
@@ -2604,6 +2603,7 @@ https://www.qa.com/resources/events/ai-and-future-careers/
 https://www.qa.com/resources/events/ai-apprenticeship-units-what-s-changing-and-what-it-means-for-you/
 https://www.qa.com/resources/events/ai-as-a-leadership-ally-how-women-leaders-harness-intelligence-to-accelerate-representation/
 https://www.qa.com/resources/events/ai-business-essentials-for-leaders/
+https://www.qa.com/resources/events/ai-governance-cant-wait-for-regulation-build-the-confidence-to-move-faster/
 https://www.qa.com/resources/events/ai-runs-on-data-what-everyone-needs-to-know/
 https://www.qa.com/resources/events/ai-will-solve-your-problems-maybe/
 https://www.qa.com/resources/events/aws-discovery-day-understand-your-customers-better-with-a-modern-data-strategy/
