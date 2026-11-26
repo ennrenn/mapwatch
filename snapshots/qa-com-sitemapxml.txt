@@ -2266,6 +2266,7 @@ https://www.qa.com/course-catalogue/products/understanding-cisco-collaboration-f
 https://www.qa.com/course-catalogue/products/uxdi-certificate-in-ai-for-prototyping-qacaip/
 https://www.qa.com/course-catalogue/products/uxdi-certificate-in-ai-for-user-research-qacaiur/
 https://www.qa.com/course-catalogue/products/uxdi-certificate-in-ai-fundamentals-for-ux-qacaifux/
+https://www.qa.com/dlc-lead-generation-form/
 https://www.qa.com/home/
 https://www.qa.com/individuals/
 https://www.qa.com/instructor-led-learning/
