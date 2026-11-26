@@ -4,9 +4,13 @@
       "date": "2026-11-26",
       "file": "new_urls_2026-11-26.csv",
       "added": 0,
-      "removed": 1,
+      "removed": 2,
       "sites": {
         "cdn.arden.ac.uk": {
+          "added": 0,
+          "removed": 1
+        },
+        "balticapprenticeships.com": {
           "added": 0,
           "removed": 1
         }
