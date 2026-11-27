@@ -1994,6 +1994,7 @@ https://www.qa.com/course-catalogue/courses/supporting-apple-in-the-enterprise-q
 https://www.qa.com/course-catalogue/courses/tableau-for-technical-users-qatabtech/
 https://www.qa.com/course-catalogue/courses/tacl-programming-tpu4199s/
 https://www.qa.com/course-catalogue/courses/talptal-programming-tpu4198s/
+https://www.qa.com/course-catalogue/courses/tap-accelerated-delivering-virtual-learning-apmg-qatapadvl/
 https://www.qa.com/course-catalogue/courses/tap-creating-workflow-learning-ttfcwl/
 https://www.qa.com/course-catalogue/courses/tap-elearning-design-ttfdolonlin/
 https://www.qa.com/course-catalogue/courses/tap-facilitating-delivering-virtual-learning-apmg-qatapdvl/

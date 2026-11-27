@@ -34,7 +34,6 @@ https://firebrand.training/uk/certifications/aws
 https://firebrand.training/uk/certifications/bcs
 https://firebrand.training/uk/certifications/cisco
 https://firebrand.training/uk/certifications/comptia
-https://firebrand.training/uk/certifications/isaca
 https://firebrand.training/uk/certifications/iso
 https://firebrand.training/uk/certifications/iso27001
 https://firebrand.training/uk/certifications/microsoft
@@ -369,6 +368,7 @@ https://firebrand.training/uk/courses/lpi/lpi-level-3-security-certification
 https://firebrand.training/uk/courses/machine-learning
 https://firebrand.training/uk/courses/marketers
 https://firebrand.training/uk/courses/microsoft
+https://firebrand.training/uk/courses/microsoft/azure/agentic-ai-developer
 https://firebrand.training/uk/courses/microsoft/azure/ai-apps-and-agents-developer-associate
 https://firebrand.training/uk/courses/microsoft/azure/ai-cloud-developer
 https://firebrand.training/uk/courses/microsoft/azure/ai-fundamentals
@@ -405,6 +405,7 @@ https://firebrand.training/uk/courses/microsoft/azure/github-foundations
 https://firebrand.training/uk/courses/microsoft/azure/mlops-engineer-associate
 https://firebrand.training/uk/courses/microsoft/azure/multi-agent-ai-solutions-expert
 https://firebrand.training/uk/courses/microsoft/azure/query-and-modify-data-with-transact-sql
+https://firebrand.training/uk/courses/microsoft/azure/sql-ai-developer-associate
 https://firebrand.training/uk/courses/microsoft/azure/windows-virtual-desktop-speciality-certification
 https://firebrand.training/uk/courses/microsoft/microsoft-365-certifications/365-endpoint-administrator-certification
 https://firebrand.training/uk/courses/microsoft/microsoft-365-certifications/365-teams-administrator-associate-certification
@@ -414,6 +415,7 @@ https://firebrand.training/uk/courses/microsoft/microsoft-365-certifications/ai-
 https://firebrand.training/uk/courses/microsoft/microsoft-365-certifications/copilot-and-agent-administration-fundamentals
 https://firebrand.training/uk/courses/microsoft/microsoft-365-certifications/copilot-immersion-experience
 https://firebrand.training/uk/courses/microsoft/microsoft-365-certifications/create-agents-in-microsoft-copilot-studio
+https://firebrand.training/uk/courses/microsoft/microsoft-365-certifications/delegate-work-with-ai
 https://firebrand.training/uk/courses/microsoft/microsoft-365-certifications/draft-analyze-and-present-with-microsoft-365-copilot-ms-4018
 https://firebrand.training/uk/courses/microsoft/microsoft-365-certifications/empower-your-workforce-with-copilot-use-cases
 https://firebrand.training/uk/courses/microsoft/microsoft-365-certifications/enhance-security-operations-by-using-microsoft-security-copilot
@@ -459,6 +461,7 @@ https://firebrand.training/uk/courses/microsoft/microsoft-certified-dynamics-365
 https://firebrand.training/uk/courses/microsoft/microsoft-certified-dynamics-365/dynamics-365-finance-operations-supply-chain-management-functional-consultant-associate-certification
 https://firebrand.training/uk/courses/microsoft/microsoft-certified-dynamics-365/intro-to-navigating-the-modern-contact-center
 https://firebrand.training/uk/courses/microsoft/microsoft-certified-dynamics-365/introduction-to-finance
+https://firebrand.training/uk/courses/microsoft/microsoft-certified-dynamics-365/introduction-to-sales
 https://firebrand.training/uk/courses/microsoft/microsoft-certified-dynamics-365/introduction-to-service
 https://firebrand.training/uk/courses/microsoft/microsoft-certified-dynamics-365/sales-ai-consultant-associate
 https://firebrand.training/uk/courses/microsoft/microsoft-certified-dynamics-365/supply-chain-management-functional-consultant-expert-certification

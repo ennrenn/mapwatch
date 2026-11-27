@@ -3,8 +3,8 @@
     {
       "date": "2026-11-27",
       "file": "new_urls_2026-11-27.csv",
-      "added": 3,
-      "removed": 4,
+      "added": 14,
+      "removed": 7,
       "sites": {
         "cdn.arden.ac.uk": {
           "added": 1,
@@ -15,16 +15,28 @@
           "removed": 0
         },
         "firstintuition.co.uk": {
-          "added": 0,
+          "added": 1,
           "removed": 1
         },
         "solent.ac.uk": {
-          "added": 1,
+          "added": 2,
           "removed": 0
         },
         "balticapprenticeships.com": {
+          "added": 4,
+          "removed": 2
+        },
+        "qa.com": {
+          "added": 1,
+          "removed": 0
+        },
+        "collegalpractice.com": {
           "added": 0,
           "removed": 2
+        },
+        "firebrand.training": {
+          "added": 4,
+          "removed": 1
         }
       }
     },
