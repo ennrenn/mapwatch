@@ -3,8 +3,8 @@
     {
       "date": "2026-11-27",
       "file": "new_urls_2026-11-27.csv",
-      "added": 2,
-      "removed": 1,
+      "added": 3,
+      "removed": 4,
       "sites": {
         "cdn.arden.ac.uk": {
           "added": 1,
@@ -13,6 +13,18 @@
         "staysharp.global": {
           "added": 1,
           "removed": 0
+        },
+        "firstintuition.co.uk": {
+          "added": 0,
+          "removed": 1
+        },
+        "solent.ac.uk": {
+          "added": 1,
+          "removed": 0
+        },
+        "balticapprenticeships.com": {
+          "added": 0,
+          "removed": 2
         }
       }
     },
