@@ -1,6 +1,22 @@
 {
   "runs": [
     {
+      "date": "2026-11-27",
+      "file": "new_urls_2026-11-27.csv",
+      "added": 2,
+      "removed": 1,
+      "sites": {
+        "cdn.arden.ac.uk": {
+          "added": 1,
+          "removed": 1
+        },
+        "staysharp.global": {
+          "added": 1,
+          "removed": 0
+        }
+      }
+    },
+    {
       "date": "2026-11-26",
       "file": "new_urls_2026-11-26.csv",
       "added": 11,
@@ -253,6 +269,6 @@
       }
     }
   ],
-  "last_checked": "2026-11-26",
+  "last_checked": "2026-11-27",
   "last_errors": []
 }
