@@ -2,7 +2,7 @@ name: Daily sitemap check
 
 on:
   schedule:
-    - cron: "30 18 * * *"   # every day at 18:30 UTC (18:30 UK in winter, 19:30 in summer)
+    - cron: "30 6,12,18 * * *"   # three times a day at 06:30, 12:30 and 18:30 UTC (an hour later UK time in summer)
   workflow_dispatch:        # lets you run it by hand from the Actions tab
 
 permissions:
