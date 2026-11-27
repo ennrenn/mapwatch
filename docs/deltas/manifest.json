@@ -3,7 +3,7 @@
     {
       "date": "2026-11-27",
       "file": "new_urls_2026-11-27.csv",
-      "added": 14,
+      "added": 15,
       "removed": 7,
       "sites": {
         "cdn.arden.ac.uk": {
@@ -27,7 +27,7 @@
           "removed": 2
         },
         "qa.com": {
-          "added": 1,
+          "added": 2,
           "removed": 0
         },
         "collegalpractice.com": {

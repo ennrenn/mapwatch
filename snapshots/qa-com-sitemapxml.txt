@@ -2707,6 +2707,7 @@ https://www.qa.com/resources/events/qa-x-london-hub-harness-your-business-skills
 https://www.qa.com/resources/events/saw25-data-ai-for-smes/
 https://www.qa.com/resources/events/saw26-the-apprenticeship-advantage-driving-roi-digital-transformation/
 https://www.qa.com/resources/events/scaling-the-infrastructure-behind-the-data-level-5-data-engineer/
+https://www.qa.com/resources/events/skills-for-the-ai-era-civil-servant-1/
 https://www.qa.com/resources/events/social-impact-spotlight-tracking-sroi-with-capgemini/
 https://www.qa.com/resources/events/storytelling-for-project-management/
 https://www.qa.com/resources/events/successful-change-relies-on-systems-thinking/
