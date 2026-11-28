@@ -310,5 +310,7 @@
     }
   ],
   "last_checked": "2026-11-28",
-  "last_errors": []
+  "last_errors": [
+    "https://paragonskills.co.uk/sitemap.xml: could not download https://paragonskills.co.uk/sitemap.xml (HTTP Error 415: Unsupported Media Type)"
+  ]
 }
