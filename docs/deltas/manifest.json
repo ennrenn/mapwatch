@@ -1,6 +1,22 @@
 {
   "runs": [
     {
+      "date": "2026-11-28",
+      "file": "new_urls_2026-11-28.csv",
+      "added": 1,
+      "removed": 1,
+      "sites": {
+        "kaplan.co.uk": {
+          "added": 1,
+          "removed": 0
+        },
+        "firstintuition.co.uk": {
+          "added": 0,
+          "removed": 1
+        }
+      }
+    },
+    {
       "date": "2026-11-27",
       "file": "new_urls_2026-11-27.csv",
       "added": 15,
@@ -293,6 +309,6 @@
       }
     }
   ],
-  "last_checked": "2026-11-27",
+  "last_checked": "2026-11-28",
   "last_errors": []
 }
